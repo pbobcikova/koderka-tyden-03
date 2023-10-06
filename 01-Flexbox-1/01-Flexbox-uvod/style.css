@@ -17,6 +17,8 @@
     padding: 10px;
     border: 1px dashed red;
     background-color: #ffffcc;
+    display:flex;
 }
-
+.prvni {flex-basis:10%;
+flex-grow:1;}
 /* ---------------------------------------------------- */

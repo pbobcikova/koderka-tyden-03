@@ -8,6 +8,10 @@ html { box-sizing: border-box; }
 	height: 500px;
 	margin: 100px auto;
 	border: 1px dashed grey;
+	background-image:url(images/siroke.jpg);
+	background-repeat:no-repeat;
+	background-position: center;
+	background-size: cover;
 }
 
 /* ------------------------------------ */
